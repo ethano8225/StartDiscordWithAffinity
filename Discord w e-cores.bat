@@ -1,0 +1,1 @@
+cmd.exe /c start "Discord" /affinity FF000 "C:\Users\ethan\AppData\Local\Discord\Update.exe" --processStart Discord.exe
